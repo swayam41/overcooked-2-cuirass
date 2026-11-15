@@ -187,3 +187,5 @@ Use the button in the Quick Start section.
 ---
 
 *Overcooked! 2 · Updated 2026-11-15 · Shared under the MIT License*
+
+<!-- rev 2026-11-15 -->
